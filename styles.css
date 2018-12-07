@@ -1,0 +1,86 @@
+.header{
+       border-top:10px solid black;
+      border-bottom:10px solid black;
+    border-right:5px solid red; 
+    border-left:5px solid red;
+   background-color:blue;
+  color: white;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+}
+.h1{
+  display:flex;
+   justify-content:center;
+      }
+.color{ 
+   background-color:red; 
+     } 
+.center{
+   display:flex;
+    justify-content:center;
+       }
+.cursive{
+    font-family: 'Lobster', cursive; 
+     }
+.box{
+       background-color:blue;
+  border: solid blue;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+      }
+.give{ 
+    
+       border-top:10px solid black;
+      border-bottom:10px solid black;
+    border-right:5px solid red; 
+    border-left:5px solid red;
+     padding-left:1px;
+ display:flex; 
+  justify-content:space-around;}
+   
+   .button {
+  background-color:red;
+  border: solid black;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+}
+ .red{
+        background-color:blue;
+  border:solid black;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+ }
+  .voting{ 
+      border-top:10px solid black;
+      border-bottom:10px solid black;  border-right:5px solid red; 
+    border-left:5px solid red;
+ padding: 1px 20px;
+       }
+.about{ border-top:10px solid black;
+      border-bottom:10px solid black;  border-right:5px solid red; 
+    border-left:5px solid red;
+      background-color:blue;
+  color: white;
+  padding: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+   justify-content:center;
+  font-size: 16px;
+     } 
+     
